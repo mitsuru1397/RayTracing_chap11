@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\vec3.h(51): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\vec3.h(129): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\hitable_list.h(20): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\material.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\material.h(53): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\material.h(111): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\camera.h(9): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\camera.h(18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(12): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(24): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(25): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(44): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(45): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(46): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(47): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\game\desktop\raytracing_chapter11\raytracing_chapter11\main.cpp(49): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  RayTracing_Chapter11.vcxproj -> C:\Users\game\Desktop\RayTracing_Chapter11\Debug\RayTracing_Chapter11.exe
+  RayTracing_Chapter11.vcxproj -> C:\Users\game\Desktop\RayTracing_Chapter11\Debug\RayTracing_Chapter11.pdb (Full PDB)
